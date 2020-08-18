@@ -129,8 +129,8 @@ dmypy.json
 .pyre/
 
 # database configuration file
-db_settings.ini
+/venv/db_settings.ini
 
 # allow some files
 !/venv/server.py
-!/venv/templates/*
+!/venv/templates/*.*
