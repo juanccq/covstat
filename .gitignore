@@ -132,4 +132,5 @@ dmypy.json
 db_settings.ini
 
 # allow some files
-!venv/server.py
+!/venv/server.py
+!/venv/templates/*
