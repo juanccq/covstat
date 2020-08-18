@@ -130,3 +130,6 @@ dmypy.json
 
 # database configuration file
 db_settings.ini
+
+# allow some files
+!venv/server.py
