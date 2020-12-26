@@ -1,0 +1,6 @@
+[mysqlDB]
+host = 'localhost'
+db = 'cov_bol_data'
+user = 'root'
+pass = 'mysql'
+path = './'
